@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **network optimisation, c
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Lists fill in after the first daily refresh._
+_Last refreshed: 2026-10-08 14:37 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -21,42 +21,86 @@ _Lists fill in after the first daily refresh._
 Newest papers on arXiv for this topic, newest first.
 
 <!-- ARXIV:START -->
-_Loading on first refresh._
+| Date | Paper | Authors |
+|---|---|---|
+| 2026-10-05 | [Combining Improvements in Uplink AI-RAN](https://arxiv.org/abs/2610.05936) | Petteri Kela et al. |
+| 2026-10-03 | [Control-Compute Governance in Agentic AI-RAN: AI Agents as Both Controllers and Workloads](https://arxiv.org/abs/2610.04578) | Le Xia et al. |
+| 2026-10-02 | [Agentic RF Intelligence: Multi-Timescale 6G Sensing and Reasoning with On-Device Foundation Models](https://arxiv.org/abs/2610.03139) | Jaron Fontaine et al. |
+| 2026-10-01 | [Beaver: Elastic GPU Sharing between ML and Latency-Critical vRAN Workloads](https://arxiv.org/abs/2610.02522) | Yuncheng Yao et al. |
+| 2026-09-29 | [LLM-Based Multi-Agent Systems over Wireless Networks: A Joint Agent--Network Design Perspective](https://arxiv.org/abs/2609.37094) | Chao Hu et al. |
+| 2026-09-25 | [Adaptive Pilot Selection for Unified Semantic Communication and Semantic Sensing in ISAC](https://arxiv.org/abs/2609.30891) | Muhammad Abubakar Rashid et al. |
+| 2026-09-21 | [From Ideal Motion to Flight-Executable Communications: LLM-Evolved Multi-UAV Deployment for Cell-Free Massive MIMO](https://arxiv.org/abs/2609.23992) | Yuyao Wang et al. |
+| 2026-09-17 | [Agentic AI Networking for Heterogeneous Unmanned Aerial Systems in Low-Altitude Wireless Networks](https://arxiv.org/abs/2609.19538) | Nguyen Duc Minh Quang et al. |
 <!-- ARXIV:END -->
 
 ## 🤖 Latest AI projects (LLMs, GenAI, agents)
 Most-starred GitHub repositories updated in the last 12 months.
 
 <!-- AI:START -->
-_Loading on first refresh._
+| Repository | What it is | Language | Stars | Last update |
+|---|---|---|---|---|
+| [stas00/ml-engineering](https://github.com/stas00/ml-engineering) | Machine Learning Engineering Open Book | Python | 19,409 | 2026-10-08 |
+| [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) | Low-code framework for building custom LLMs, neural networks, and other AI models | Python | 11,774 | 2026-10-05 |
+| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2,200+ medical models, 21 languages, Apple M | Python | 5,460 | 2026-10-07 |
+| [openagents-org/openagents](https://github.com/openagents-org/openagents) | OpenAgents - The collaboration OS for AI agents | TypeScript | 4,182 | 2026-10-08 |
+| [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) | The Swiss Army Knife of Offline AI. Chat, see, speak, and generate images on your phone or Mac — GGUF LLMs, vision, Whisper speech-to-text,  | TypeScript | 3,216 | 2026-10-08 |
+| [AI-Efficiency/Awesome-Model-Quantization](https://github.com/AI-Efficiency/Awesome-Model-Quantization) | A curated collection of papers, benchmarks, surveys, and tools for model quantization, covering low-bit networks, LLMs, multimodal and gener |  | 2,453 | 2026-10-05 |
 <!-- AI:END -->
 
 ## 🧠 Latest machine learning projects
 Most-starred GitHub repositories updated in the last 12 months.
 
 <!-- ML:START -->
-_Loading on first refresh._
+| Repository | What it is | Language | Stars | Last update |
+|---|---|---|---|---|
+| [Vincent665/MGCN-for-Traffic-Prediction](https://github.com/Vincent665/MGCN-for-Traffic-Prediction) | The repo is the official implementation for the paper: (MGCN: Mamba-Integrated Spatiotemporal Graph Convolutional Network for Long-Term Traf | Python | 30 | 2026-01-27 |
+| [chauhan-varun/telechurnAi](https://github.com/chauhan-varun/telechurnAi) | An AI-powered customer churn prediction system for telecom companies, achieving 98.1% accuracy in identifying customers at risk of churning. | Python | 18 | 2026-04-17 |
+| [anandsuraj/churn-prediction-ml-pipeline](https://github.com/anandsuraj/churn-prediction-ml-pipeline) | A fully automated ML pipeline for customer churn prediction in telecom, orchestrated with Apache Airflow. Covers data ingestion, validation, | Python | 14 | 2026-02-27 |
+| [AI-SMART-tt/Traffic-prediction-models-GNN](https://github.com/AI-SMART-tt/Traffic-prediction-models-GNN) | This work presents a comprehensive repository for classic and cutting-edge graph neural network (GNN)-based traffic flow prediction models. | Python | 14 | 2025-10-19 |
+| [prattyan/traffic-manage](https://github.com/prattyan/traffic-manage) | An AI-powered smart traffic management system that leverages YOLOv8 for real-time vehicle detection and LSTM neural networks for traffic flo | Python | 12 | 2026-08-05 |
+| [mhnarfth/REN-Traffic-Prediction-GRU-LSTM](https://github.com/mhnarfth/REN-Traffic-Prediction-GRU-LSTM) | Code and analysis for “Traffic Prediction for Research and Education Networks using an Ensemble GRU-LSTM with Varying Lead Times”, a ICC IEE | Jupyter Notebook | 10 | 2025-10-17 |
 <!-- ML:END -->
 
 ## 🔬 Latest data science projects
 Most-starred GitHub repositories updated in the last 12 months.
 
 <!-- DS:START -->
-_Loading on first refresh._
+| Repository | What it is | Language | Stars | Last update |
+|---|---|---|---|---|
+| [Raunak0006/telecom-Analysis](https://github.com/Raunak0006/telecom-Analysis) | Data Science project demonstrating data analysis, visualization, and statistical operations on SIM recharge datasets using Python, Pandas, N | Python | 2 | 2025-11-09 |
+| [f-masato-tanaka/telecom-churn-ml](https://github.com/f-masato-tanaka/telecom-churn-ml) | This repository features a data science project developed for a Master's course, aimed at identifying customer churn risk factors in the tel | Jupyter Notebook | 2 | 2026-01-24 |
+| [mdzaheerjk/Telecom-Customer-Churn-Prediction-using-Machine-Learning](https://github.com/mdzaheerjk/Telecom-Customer-Churn-Prediction-using-Machine-Learning) | This project focuses on developing a machine learning system to predict customer churn in the telecommunications industry. It covers the ent | Jupyter Notebook | 2 | 2026-08-01 |
+| [BERTHELEILA/Challenge-2-TelecomX-Data-Science](https://github.com/BERTHELEILA/Challenge-2-TelecomX-Data-Science) |  | Jupyter Notebook | 1 | 2026-03-10 |
+| [tania-maria/telecom-churn-analysis_](https://github.com/tania-maria/telecom-churn-analysis_) | Challenge 2 Data Science | Jupyter Notebook | 1 | 2026-03-09 |
+| [krishankantpandey359-droid/Telecom-Data-Science-Project](https://github.com/krishankantpandey359-droid/Telecom-Data-Science-Project) | Telecom Customer Data Analysis using Python, Pandas, NumPy, Matplotlib and Seaborn. | Jupyter Notebook | 1 | 2026-09-16 |
 <!-- DS:END -->
 
 ## 📊 Latest data analytics projects
 Most-starred GitHub repositories updated in the last 12 months.
 
 <!-- DA:START -->
-_Loading on first refresh._
+| Repository | What it is | Language | Stars | Last update |
+|---|---|---|---|---|
+| [activecm/rita-legacy](https://github.com/activecm/rita-legacy) | Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis. | Go | 2,512 | 2026-01-12 |
+| [carverauto/serviceradar](https://github.com/carverauto/serviceradar) | Open-Source Network Management, Monitoring, ITOM, and Security Analytics | Elixir | 921 | 2026-10-08 |
+| [activecm/rita](https://github.com/activecm/rita) | Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis. | Go | 654 | 2026-10-01 |
+| [openflocon/Flocon](https://github.com/openflocon/Flocon) | A powerful desktop companion for Android & kmp (desktop, iOS) apps — inspect, debug, mock and control your app in real time. Supports OkHttp | Kotlin | 375 | 2026-10-02 |
+| [ayrshare/social-media-api](https://github.com/ayrshare/social-media-api) | Social Media API: Automate Posting and Analytics to Social Networks like Instagram, TikTok, X/Twitter, Facebook, LinkedIn, Reddit, YouTube,  | JavaScript | 342 | 2026-09-14 |
+| [neuhausi/canvasXpress](https://github.com/neuhausi/canvasXpress) | CanvasXpress: A JavaScript Library for Data Analytics with Full Audit Trail Capabilities. | R | 317 | 2026-10-08 |
 <!-- DA:END -->
 
 ## 📈 Latest data analysis projects
 Most-starred GitHub repositories updated in the last 12 months.
 
 <!-- DAN:START -->
-_Loading on first refresh._
+| Repository | What it is | Language | Stars | Last update |
+|---|---|---|---|---|
+| [rishv1912/Customer-Churn-MLOps](https://github.com/rishv1912/Customer-Churn-MLOps) | An End-To-End machine learning project for predicting customer churn in telecom industry, featuring data analysis, model deployment and mlop | Jupyter Notebook | 10 | 2026-07-24 |
+| [saurabhshirole1/telecom-customer-churn-analysis-powerbi](https://github.com/saurabhshirole1/telecom-customer-churn-analysis-powerbi) | Power BI project analyzing telecom customer churn to uncover insights that help reduce customer loss and improve satisfaction. |  | 8 | 2025-11-11 |
+| [pavan-ahire/Telecom-Customers-Churn-Analysis](https://github.com/pavan-ahire/Telecom-Customers-Churn-Analysis) | Telecom Customer Churn Analysis using Power BI This project analyzes telecom customer data to identify key factors influencing customer chur |  | 7 | 2025-12-14 |
+| [Justhavecool/Customer-Segmentation-Visualization-And-Advanced-Analysis](https://github.com/Justhavecool/Customer-Segmentation-Visualization-And-Advanced-Analysis) | 📊 Analyze customer churn, segment behavior, and uncover insights to improve retention for telecom firms using data visualization and advance | Jupyter Notebook | 5 | 2026-10-07 |
+| [Venkatesh9372/Telecom-customer-churn-analysis-Dashboard](https://github.com/Venkatesh9372/Telecom-customer-churn-analysis-Dashboard) | Telecom Customer Churn Analysis Dashboard built in Power BI to identify key churn drivers and customer behavior patterns. The report analyze |  | 5 | 2025-12-06 |
+| [darpana-chauhan/customer-churn-analysis](https://github.com/darpana-chauhan/customer-churn-analysis) | Telecom Customer Churn Analysis Dashboard built using Power BI. This project analyzes customer behavior and identifies churn patterns using  |  | 4 | 2026-02-13 |
 <!-- DAN:END -->
 
 ## 📚 Free learning resources
