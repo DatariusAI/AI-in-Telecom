@@ -1,0 +1,42 @@
+{
+  "arxiv_query": "(abs:telecommunication OR abs:\"wireless network\" OR abs:6G OR abs:\"radio access network\") AND (abs:\"machine learning\" OR abs:\"language model\" OR abs:\"deep learning\")",
+  "arxiv_max": 8,
+  "repos_per_section": 6,
+  "since_days": 365,
+  "code_sections": [
+    {
+      "key": "AI",
+      "queries": [
+        "telecom llm",
+        "network llm"
+      ]
+    },
+    {
+      "key": "ML",
+      "queries": [
+        "telecom churn prediction",
+        "network traffic prediction"
+      ]
+    },
+    {
+      "key": "DS",
+      "queries": [
+        "telecom data science"
+      ]
+    },
+    {
+      "key": "DA",
+      "queries": [
+        "telecom analytics",
+        "network analytics"
+      ]
+    },
+    {
+      "key": "DAN",
+      "queries": [
+        "telecom churn analysis",
+        "call detail records analysis"
+      ]
+    }
+  ]
+}
