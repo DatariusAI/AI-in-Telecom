@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **network optimisation, c
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-12 04:49 UTC_
+_Last refreshed: 2026-10-13 04:44 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -39,12 +39,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- AI:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [stas00/ml-engineering](https://github.com/stas00/ml-engineering) | Machine Learning Engineering Open Book | Python | 19,472 | 2026-10-11 |
-| [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) | Low-code framework for building custom LLMs, neural networks, and other AI models | Python | 11,772 | 2026-10-05 |
-| [openagents-org/openagents](https://github.com/openagents-org/openagents) | OpenAgents - The collaboration OS for AI agents | TypeScript | 4,196 | 2026-10-11 |
-| [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) | The Swiss Army Knife of Offline AI. Chat, see, speak, and generate images on your phone or Mac — GGUF LLMs, vision, Whisper speech-to-text,  | TypeScript | 3,231 | 2026-10-10 |
+| [stas00/ml-engineering](https://github.com/stas00/ml-engineering) | Machine Learning Engineering Open Book | Python | 19,508 | 2026-10-13 |
+| [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) | Low-code framework for building custom LLMs, neural networks, and other AI models | Python | 11,772 | 2026-10-12 |
+| [openagents-org/openagents](https://github.com/openagents-org/openagents) | OpenAgents - The collaboration OS for AI agents | TypeScript | 4,200 | 2026-10-12 |
+| [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) | The Swiss Army Knife of Offline AI. Chat, see, speak, and generate images on your phone or Mac — GGUF LLMs, vision, Whisper speech-to-text,  | TypeScript | 3,235 | 2026-10-13 |
 | [AI-Efficiency/Awesome-Model-Quantization](https://github.com/AI-Efficiency/Awesome-Model-Quantization) | A curated collection of papers, benchmarks, surveys, and tools for model quantization, covering low-bit networks, LLMs, multimodal and gener |  | 2,455 | 2026-10-12 |
-| [openvinotoolkit/nncf](https://github.com/openvinotoolkit/nncf) | Neural Network Compression Framework for enhanced OpenVINO™ inference | Python | 1,208 | 2026-10-11 |
+| [openvinotoolkit/nncf](https://github.com/openvinotoolkit/nncf) | Neural Network Compression Framework for enhanced OpenVINO™ inference | Python | 1,208 | 2026-10-12 |
 <!-- AI:END -->
 
 ## 🧠 Latest machine learning projects
@@ -82,7 +82,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [activecm/rita-legacy](https://github.com/activecm/rita-legacy) | Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis. | Go | 2,510 | 2026-01-12 |
-| [carverauto/serviceradar](https://github.com/carverauto/serviceradar) | Open-Source Network Management, Monitoring, ITOM, and Security Analytics | Elixir | 920 | 2026-10-12 |
+| [carverauto/serviceradar](https://github.com/carverauto/serviceradar) | Open-Source Network Management, Monitoring, ITOM, and Security Analytics | Elixir | 920 | 2026-10-13 |
 | [activecm/rita](https://github.com/activecm/rita) | Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis. | Go | 658 | 2026-10-01 |
 | [openflocon/Flocon](https://github.com/openflocon/Flocon) | A powerful desktop companion for Android & kmp (desktop, iOS) apps — inspect, debug, mock and control your app in real time. Supports OkHttp | Kotlin | 375 | 2026-10-02 |
 | [ayrshare/social-media-api](https://github.com/ayrshare/social-media-api) | Social Media API: Automate Posting and Analytics to Social Networks like Instagram, TikTok, X/Twitter, Facebook, LinkedIn, Reddit, YouTube,  | JavaScript | 343 | 2026-09-14 |
@@ -99,7 +99,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 | [rishv1912/Customer-Churn-MLOps](https://github.com/rishv1912/Customer-Churn-MLOps) | An End-To-End machine learning project for predicting customer churn in telecom industry, featuring data analysis, model deployment and mlop | Jupyter Notebook | 10 | 2026-07-24 |
 | [saurabhshirole1/telecom-customer-churn-analysis-powerbi](https://github.com/saurabhshirole1/telecom-customer-churn-analysis-powerbi) | Power BI project analyzing telecom customer churn to uncover insights that help reduce customer loss and improve satisfaction. |  | 8 | 2025-11-11 |
 | [pavan-ahire/Telecom-Customers-Churn-Analysis](https://github.com/pavan-ahire/Telecom-Customers-Churn-Analysis) | Telecom Customer Churn Analysis using Power BI This project analyzes telecom customer data to identify key factors influencing customer chur |  | 7 | 2025-12-14 |
-| [Justhavecool/Customer-Segmentation-Visualization-And-Advanced-Analysis](https://github.com/Justhavecool/Customer-Segmentation-Visualization-And-Advanced-Analysis) | 📊 Analyze customer churn, segment behavior, and uncover insights to improve retention for telecom firms using data visualization and advance | Jupyter Notebook | 5 | 2026-10-10 |
+| [Justhavecool/Customer-Segmentation-Visualization-And-Advanced-Analysis](https://github.com/Justhavecool/Customer-Segmentation-Visualization-And-Advanced-Analysis) | 📊 Analyze customer churn, segment behavior, and uncover insights to improve retention for telecom firms using data visualization and advance | Jupyter Notebook | 6 | 2026-10-13 |
 | [Venkatesh9372/Telecom-customer-churn-analysis-Dashboard](https://github.com/Venkatesh9372/Telecom-customer-churn-analysis-Dashboard) | Telecom Customer Churn Analysis Dashboard built in Power BI to identify key churn drivers and customer behavior patterns. The report analyze |  | 5 | 2025-12-06 |
 <!-- DAN:END -->
 
