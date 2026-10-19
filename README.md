@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **network optimisation, c
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-18 04:34 UTC_
+_Last refreshed: 2026-10-19 04:38 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -23,6 +23,7 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
+| 2026-10-16 | [LLM-Guided Dual-Stage Latency Optimization for Closed-Loop 6G V2I Digital Twins](https://arxiv.org/abs/2610.22848) | Liu Cao et al. |
 | 2026-10-15 | [Uncertainty-Aware Federated Learning for Joint Communication and Computation in XR Systems](https://arxiv.org/abs/2610.21969) | Robert-Jeron Reifert et al. |
 | 2026-10-14 | [O-RAN-Native Jamming Detection Under Network Heterogeneity](https://arxiv.org/abs/2610.20816) | Sneihil Gopal et al. |
 | 2026-10-11 | [AutoSec-RAN: Specification-Grounded LLM Fine-Tuning for Automated Security Analysis of O-RAN](https://arxiv.org/abs/2610.15995) | Anoop Mishra et al. |
@@ -30,7 +31,6 @@ Newest papers on arXiv for this topic, newest first.
 | 2026-10-07 | [RFChipAgent: Multi-Agentic AI Flow for Analog/RF Chip Design](https://arxiv.org/abs/2610.10858) | Awani Khodkumbhe et al. |
 | 2026-10-05 | [Combining Improvements in Uplink AI-RAN](https://arxiv.org/abs/2610.05936) | Petteri Kela et al. |
 | 2026-10-03 | [Control-Compute Governance in Agentic AI-RAN: AI Agents as Both Controllers and Workloads](https://arxiv.org/abs/2610.04578) | Le Xia et al. |
-| 2026-10-02 | [Agentic RF Intelligence: Multi-Timescale 6G Sensing and Reasoning with On-Device Foundation Models](https://arxiv.org/abs/2610.03139) | Jaron Fontaine et al. |
 <!-- ARXIV:END -->
 
 ## 🤖 Latest AI projects (LLMs, GenAI, agents)
@@ -39,12 +39,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- AI:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [stas00/ml-engineering](https://github.com/stas00/ml-engineering) | Machine Learning Engineering Open Book | Python | 19,542 | 2026-10-16 |
+| [stas00/ml-engineering](https://github.com/stas00/ml-engineering) | Machine Learning Engineering Open Book | Python | 19,546 | 2026-10-16 |
 | [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) | Low-code framework for building custom LLMs, neural networks, and other AI models | Python | 11,774 | 2026-10-12 |
-| [openagents-org/openagents](https://github.com/openagents-org/openagents) | OpenAgents - The collaboration OS for AI agents | TypeScript | 4,227 | 2026-10-18 |
-| [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) | The Swiss Army Knife of Offline AI. Chat, see, speak, and generate images on your phone or Mac — GGUF LLMs, vision, Whisper speech-to-text,  | TypeScript | 3,246 | 2026-10-17 |
-| [AI-Efficiency/Awesome-Model-Quantization](https://github.com/AI-Efficiency/Awesome-Model-Quantization) | A curated collection of papers, benchmarks, surveys, and tools for model quantization, covering low-bit networks, LLMs, multimodal and gener |  | 2,456 | 2026-10-16 |
-| [openvinotoolkit/nncf](https://github.com/openvinotoolkit/nncf) | Neural Network Compression Framework for enhanced OpenVINO™ inference | Python | 1,209 | 2026-10-14 |
+| [openagents-org/openagents](https://github.com/openagents-org/openagents) | OpenAgents - The collaboration OS for AI agents | TypeScript | 4,230 | 2026-10-19 |
+| [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) | The Swiss Army Knife of Offline AI. Chat, see, speak, and generate images on your phone or Mac — GGUF LLMs, vision, Whisper speech-to-text,  | TypeScript | 3,251 | 2026-10-17 |
+| [AI-Efficiency/Awesome-Model-Quantization](https://github.com/AI-Efficiency/Awesome-Model-Quantization) | A curated collection of papers, benchmarks, surveys, and tools for model quantization, covering low-bit networks, LLMs, multimodal and gener |  | 2,456 | 2026-10-19 |
+| [openvinotoolkit/nncf](https://github.com/openvinotoolkit/nncf) | Neural Network Compression Framework for enhanced OpenVINO™ inference | Python | 1,209 | 2026-10-18 |
 <!-- AI:END -->
 
 ## 🧠 Latest machine learning projects
@@ -56,9 +56,9 @@ Most-starred GitHub repositories updated in the last 12 months.
 | [Vincent665/MGCN-for-Traffic-Prediction](https://github.com/Vincent665/MGCN-for-Traffic-Prediction) | The repo is the official implementation for the paper: (MGCN: Mamba-Integrated Spatiotemporal Graph Convolutional Network for Long-Term Traf | Python | 30 | 2026-01-27 |
 | [chauhan-varun/telechurnAi](https://github.com/chauhan-varun/telechurnAi) | An AI-powered customer churn prediction system for telecom companies, achieving 98.1% accuracy in identifying customers at risk of churning. | Python | 18 | 2026-04-17 |
 | [anandsuraj/churn-prediction-ml-pipeline](https://github.com/anandsuraj/churn-prediction-ml-pipeline) | A fully automated ML pipeline for customer churn prediction in telecom, orchestrated with Apache Airflow. Covers data ingestion, validation, | Python | 14 | 2026-02-27 |
-| [AI-SMART-tt/Traffic-prediction-models-GNN](https://github.com/AI-SMART-tt/Traffic-prediction-models-GNN) | This work presents a comprehensive repository for classic and cutting-edge graph neural network (GNN)-based traffic flow prediction models. | Python | 14 | 2025-10-19 |
 | [luokn/ms-gat](https://github.com/luokn/ms-gat) | Learning Multiaspect Traffic Couplings by Multirelational Graph Attention Networks for Traffic Prediction | Python | 13 | 2026-10-16 |
 | [prattyan/traffic-manage](https://github.com/prattyan/traffic-manage) | An AI-powered smart traffic management system that leverages YOLOv8 for real-time vehicle detection and LSTM neural networks for traffic flo | Python | 12 | 2026-08-05 |
+| [rhymesg/SRNN](https://github.com/rhymesg/SRNN) | Pytorch implementation of structural recurrent neural network (SRNN) for traffic speed prediction | Python | 10 | 2026-09-27 |
 <!-- ML:END -->
 
 ## 🔬 Latest data science projects
@@ -82,11 +82,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [activecm/rita-legacy](https://github.com/activecm/rita-legacy) | Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis. | Go | 2,512 | 2026-01-12 |
-| [carverauto/serviceradar](https://github.com/carverauto/serviceradar) | Open-Source Network Management, Monitoring, ITOM, and Security Analytics | Elixir | 920 | 2026-10-18 |
+| [carverauto/serviceradar](https://github.com/carverauto/serviceradar) | Open-Source Network Management, Monitoring, ITOM, and Security Analytics | Elixir | 920 | 2026-10-19 |
 | [activecm/rita](https://github.com/activecm/rita) | Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis. | Go | 661 | 2026-10-15 |
-| [openflocon/Flocon](https://github.com/openflocon/Flocon) | A powerful desktop companion for Android & kmp (desktop, iOS) apps — inspect, debug, mock and control your app in real time. Supports OkHttp | Kotlin | 375 | 2026-10-17 |
-| [ayrshare/social-media-api](https://github.com/ayrshare/social-media-api) | Social Media API: Automate Posting and Analytics to Social Networks like Instagram, TikTok, X/Twitter, Facebook, LinkedIn, Reddit, YouTube,  | JavaScript | 347 | 2026-09-14 |
-| [neuhausi/canvasXpress](https://github.com/neuhausi/canvasXpress) | CanvasXpress: A JavaScript Library for Data Analytics with Full Audit Trail Capabilities. | R | 317 | 2026-10-16 |
+| [openflocon/Flocon](https://github.com/openflocon/Flocon) | A powerful desktop companion for Android & kmp (desktop, iOS) apps — inspect, debug, mock and control your app in real time. Supports OkHttp | Kotlin | 376 | 2026-10-18 |
+| [ayrshare/social-media-api](https://github.com/ayrshare/social-media-api) | Social Media API: Automate Posting and Analytics to Social Networks like Instagram, TikTok, X/Twitter, Facebook, LinkedIn, Reddit, YouTube,  | JavaScript | 348 | 2026-09-14 |
+| [neuhausi/canvasXpress](https://github.com/neuhausi/canvasXpress) | CanvasXpress: A JavaScript Library for Data Analytics with Full Audit Trail Capabilities. | R | 317 | 2026-10-19 |
 <!-- DA:END -->
 
 ## 📈 Latest data analysis projects
