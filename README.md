@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **network optimisation, c
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-26 04:40 UTC_
+_Last refreshed: 2026-10-27 04:36 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -39,12 +39,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- AI:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [stas00/ml-engineering](https://github.com/stas00/ml-engineering) | Machine Learning Engineering Open Book | Python | 19,591 | 2026-10-21 |
-| [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) | Low-code framework for building custom LLMs, neural networks, and other AI models | Python | 11,781 | 2026-10-19 |
-| [openagents-org/openagents](https://github.com/openagents-org/openagents) | OpenAgents - The collaboration OS for AI agents | TypeScript | 4,258 | 2026-10-26 |
-| [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) | The Swiss Army Knife of Offline AI. Chat, see, speak, and generate images on your phone or Mac — GGUF LLMs, vision, Whisper speech-to-text,  | TypeScript | 3,276 | 2026-10-24 |
-| [AI-Efficiency/Awesome-Model-Quantization](https://github.com/AI-Efficiency/Awesome-Model-Quantization) | A curated collection of papers, benchmarks, surveys, and tools for model quantization, covering low-bit networks, LLMs, multimodal and gener |  | 2,458 | 2026-10-19 |
-| [openvinotoolkit/nncf](https://github.com/openvinotoolkit/nncf) | Neural Network Compression Framework for enhanced OpenVINO™ inference | Python | 1,213 | 2026-10-25 |
+| [stas00/ml-engineering](https://github.com/stas00/ml-engineering) | Machine Learning Engineering Open Book | Python | 19,618 | 2026-10-27 |
+| [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) | Low-code framework for building custom LLMs, neural networks, and other AI models | Python | 11,784 | 2026-10-27 |
+| [openagents-org/openagents](https://github.com/openagents-org/openagents) | OpenAgents - The collaboration OS for AI agents | TypeScript | 4,264 | 2026-10-27 |
+| [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) | The Swiss Army Knife of Offline AI. Chat, see, speak, and generate images on your phone or Mac — GGUF LLMs, vision, Whisper speech-to-text,  | TypeScript | 3,282 | 2026-10-27 |
+| [AI-Efficiency/Awesome-Model-Quantization](https://github.com/AI-Efficiency/Awesome-Model-Quantization) | A curated collection of papers, benchmarks, surveys, and tools for model quantization, covering low-bit networks, LLMs, multimodal and gener |  | 2,459 | 2026-10-26 |
+| [openvinotoolkit/nncf](https://github.com/openvinotoolkit/nncf) | Neural Network Compression Framework for enhanced OpenVINO™ inference | Python | 1,213 | 2026-10-26 |
 <!-- AI:END -->
 
 ## 🧠 Latest machine learning projects
@@ -69,10 +69,10 @@ Most-starred GitHub repositories updated in the last 12 months.
 |---|---|---|---|---|
 | [Raunak0006/telecom-Analysis](https://github.com/Raunak0006/telecom-Analysis) | Data Science project demonstrating data analysis, visualization, and statistical operations on SIM recharge datasets using Python, Pandas, N | Python | 2 | 2025-11-09 |
 | [f-masato-tanaka/telecom-churn-ml](https://github.com/f-masato-tanaka/telecom-churn-ml) | This repository features a data science project developed for a Master's course, aimed at identifying customer churn risk factors in the tel | Jupyter Notebook | 2 | 2026-01-24 |
-| [mdzaheerjk/Telecom-Customer-Churn-Prediction-using-Machine-Learning](https://github.com/mdzaheerjk/Telecom-Customer-Churn-Prediction-using-Machine-Learning) | This project focuses on developing a machine learning system to predict customer churn in the telecommunications industry. It covers the ent | Jupyter Notebook | 2 | 2026-08-01 |
 | [BERTHELEILA/Challenge-2-TelecomX-Data-Science](https://github.com/BERTHELEILA/Challenge-2-TelecomX-Data-Science) |  | Jupyter Notebook | 1 | 2026-03-10 |
 | [tania-maria/telecom-churn-analysis_](https://github.com/tania-maria/telecom-churn-analysis_) | Challenge 2 Data Science | Jupyter Notebook | 1 | 2026-03-09 |
 | [krishankantpandey359-droid/Telecom-Data-Science-Project](https://github.com/krishankantpandey359-droid/Telecom-Data-Science-Project) | Telecom Customer Data Analysis using Python, Pandas, NumPy, Matplotlib and Seaborn. | Jupyter Notebook | 1 | 2026-09-16 |
+| [WARzGOD/Churn_TelecomX](https://github.com/WARzGOD/Churn_TelecomX) | Segundo projeto feito por mim como parte do desafio da Alura + Oracle do curso de Data Science | Jupyter Notebook | 1 | 2026-02-25 |
 <!-- DS:END -->
 
 ## 📊 Latest data analytics projects
@@ -82,11 +82,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [activecm/rita-legacy](https://github.com/activecm/rita-legacy) | Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis. | Go | 2,512 | 2026-01-12 |
-| [carverauto/serviceradar](https://github.com/carverauto/serviceradar) | Open-Source Network Management, Monitoring, ITOM, and Security Analytics | Elixir | 920 | 2026-10-26 |
+| [carverauto/serviceradar](https://github.com/carverauto/serviceradar) | Open-Source Network Management, Monitoring, ITOM, Observability, and Security Analytics | Elixir | 924 | 2026-10-27 |
 | [activecm/rita](https://github.com/activecm/rita) | Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis. | Go | 666 | 2026-10-15 |
-| [openflocon/Flocon](https://github.com/openflocon/Flocon) | A powerful desktop companion for Android & kmp (desktop, iOS) apps — inspect, debug, mock and control your app in real time. Supports OkHttp | Kotlin | 378 | 2026-10-23 |
+| [openflocon/Flocon](https://github.com/openflocon/Flocon) | A powerful desktop companion for Android & kmp (desktop, iOS) apps — inspect, debug, mock and control your app in real time. Supports OkHttp | Kotlin | 378 | 2026-10-27 |
 | [ayrshare/social-media-api](https://github.com/ayrshare/social-media-api) | Social Media API: Automate Posting and Analytics to Social Networks like Instagram, TikTok, X/Twitter, Facebook, LinkedIn, Reddit, YouTube,  | JavaScript | 348 | 2026-09-14 |
-| [neuhausi/canvasXpress](https://github.com/neuhausi/canvasXpress) | CanvasXpress: A JavaScript Library for Data Analytics with Full Audit Trail Capabilities. | R | 317 | 2026-10-23 |
+| [neuhausi/canvasXpress](https://github.com/neuhausi/canvasXpress) | CanvasXpress: A JavaScript Library for Data Analytics with Full Audit Trail Capabilities. | R | 317 | 2026-10-26 |
 <!-- DA:END -->
 
 ## 📈 Latest data analysis projects
