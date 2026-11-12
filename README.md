@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **network optimisation, c
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-11 04:26 UTC_
+_Last refreshed: 2026-11-12 04:27 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -23,6 +23,7 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
+| 2026-11-08 | [Practical Deep Learning-Based Block Demapping for mmWave MIMO Systems](https://arxiv.org/abs/2611.11629) | Syed Asrar ul haq et al. |
 | 2026-11-08 | [Edge Computing for Computer Vision in IoT: Feasibility and Directions](https://arxiv.org/abs/2611.11218) | Panagiotis Savvidis et al. |
 | 2026-11-07 | [Where Should Models Run? A Collaborative Inference Framework for Embodied Intelligence in 6G](https://arxiv.org/abs/2611.11023) | Wanlu Sun et al. |
 | 2026-11-03 | [Kierston & KierstonBench: Simulation of Allentown, PA and Evaluation of Language Models in Crime Investigation and Surveillance Tasks](https://arxiv.org/abs/2611.04785) | Andrew Semenov et al. |
@@ -30,7 +31,6 @@ Newest papers on arXiv for this topic, newest first.
 | 2026-10-30 | [Dataset and Experimental Testbed for Deep Learning-Based Bluetooth Device Fingerprinting](https://arxiv.org/abs/2611.00332) | Haytham Albousayri et al. |
 | 2026-10-29 | [CLIC: Closed-Loop Intent Consistency for Securing LLM-Driven Control in Open RAN](https://arxiv.org/abs/2610.40744) | Sunder Ali Khowaja et al. |
 | 2026-10-25 | [From Human Intent to In-Orbit Action: A Self-Learning Large Language Model Agent for 6G Satellite Networks](https://arxiv.org/abs/2610.34387) | Zhengqian Xu et al. |
-| 2026-10-25 | [6G Reasoning Agent Societies: Composition, Scaling, and Consistency-Time Laws](https://arxiv.org/abs/2610.34357) | Hatim Chergui et al. |
 <!-- ARXIV:END -->
 
 ## 🤖 Latest AI projects (LLMs, GenAI, agents)
@@ -39,11 +39,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- AI:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [stas00/ml-engineering](https://github.com/stas00/ml-engineering) | Machine Learning Engineering Open Book | Python | 19,694 | 2026-11-04 |
-| [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) | Low-code framework for building custom LLMs, neural networks, and other AI models | Python | 11,792 | 2026-11-09 |
-| [openagents-org/openagents](https://github.com/openagents-org/openagents) | OpenAgents - The collaboration OS for AI agents | TypeScript | 4,374 | 2026-11-10 |
-| [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) | The Swiss Army Knife of Offline AI. Chat, see, speak, and generate images on your phone or Mac — GGUF LLMs, vision, Whisper speech-to-text,  | TypeScript | 3,364 | 2026-11-11 |
-| [AI-Efficiency/Awesome-Model-Quantization](https://github.com/AI-Efficiency/Awesome-Model-Quantization) | A curated collection of papers, benchmarks, surveys, and tools for model quantization, covering low-bit networks, LLMs, multimodal and gener |  | 2,465 | 2026-10-26 |
+| [stas00/ml-engineering](https://github.com/stas00/ml-engineering) | Machine Learning Engineering Open Book | Python | 19,700 | 2026-11-04 |
+| [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) | Low-code framework for building custom LLMs, neural networks, and other AI models | Python | 11,791 | 2026-11-09 |
+| [openagents-org/openagents](https://github.com/openagents-org/openagents) | OpenAgents - The collaboration OS for AI agents | TypeScript | 4,382 | 2026-11-12 |
+| [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) | The Swiss Army Knife of Offline AI. Chat, see, speak, and generate images on your phone or Mac — GGUF LLMs, vision, Whisper speech-to-text,  | TypeScript | 3,367 | 2026-11-11 |
+| [AI-Efficiency/Awesome-Model-Quantization](https://github.com/AI-Efficiency/Awesome-Model-Quantization) | A curated collection of papers, benchmarks, surveys, and tools for model quantization, covering low-bit networks, LLMs, multimodal and gener |  | 2,466 | 2026-10-26 |
 | [openvinotoolkit/nncf](https://github.com/openvinotoolkit/nncf) | Neural Network Compression Framework for enhanced OpenVINO™ inference | Python | 1,219 | 2026-11-09 |
 <!-- AI:END -->
 
@@ -81,10 +81,10 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DA:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [activecm/rita-legacy](https://github.com/activecm/rita-legacy) | Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis. | Go | 2,510 | 2026-01-12 |
-| [carverauto/serviceradar](https://github.com/carverauto/serviceradar) | Open-Source Network Management, Monitoring, ITOM, Observability, and Security Analytics | Elixir | 933 | 2026-11-11 |
+| [activecm/rita-legacy](https://github.com/activecm/rita-legacy) | Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis. | Go | 2,509 | 2026-01-12 |
+| [carverauto/serviceradar](https://github.com/carverauto/serviceradar) | Open-Source Network Management, Monitoring, ITOM, Observability, and Security Analytics | Elixir | 933 | 2026-11-12 |
 | [activecm/rita](https://github.com/activecm/rita) | Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis. | Go | 671 | 2026-11-10 |
-| [openflocon/Flocon](https://github.com/openflocon/Flocon) | A powerful desktop companion for Android & kmp (desktop, iOS) apps — inspect, debug, mock and control your app in real time. Supports OkHttp | Kotlin | 380 | 2026-11-10 |
+| [openflocon/Flocon](https://github.com/openflocon/Flocon) | A powerful desktop companion for Android & kmp (desktop, iOS) apps — inspect, debug, mock and control your app in real time. Supports OkHttp | Kotlin | 379 | 2026-11-11 |
 | [ayrshare/social-media-api](https://github.com/ayrshare/social-media-api) | Social Media API: Automate Posting and Analytics to Social Networks like Instagram, TikTok, X/Twitter, Facebook, LinkedIn, Reddit, YouTube,  | JavaScript | 350 | 2026-09-14 |
 | [neuhausi/canvasXpress](https://github.com/neuhausi/canvasXpress) | CanvasXpress: A JavaScript Library for Data Analytics with Full Audit Trail Capabilities. | R | 318 | 2026-11-08 |
 <!-- DA:END -->
