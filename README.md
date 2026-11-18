@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **network optimisation, c
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-17 04:27 UTC_
+_Last refreshed: 2026-11-18 04:27 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -23,6 +23,7 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
+| 2026-11-17 | [HiGAI-Net: Hierarchical Encrypted Traffic Classification for Generative AI Services](https://arxiv.org/abs/2611.22373) | Madhan Raj Kanagarathinam et al. |
 | 2026-11-15 | [Large Language Model-based Optimization for Wireless Communication: A Survey](https://arxiv.org/abs/2611.19876) | Muhammad Sohaib et al. |
 | 2026-11-14 | [EdgeNet City: Context-Aware AI-RAN Planning toward Autonomous Urban Connectivity](https://arxiv.org/abs/2611.19231) | Ziming Liu et al. |
 | 2026-11-12 | [Resilient Transmission of Highly Structured Light via Active Convolved Illumination](https://arxiv.org/abs/2611.17471) | Anindya Ghoshroy et al. |
@@ -30,7 +31,6 @@ Newest papers on arXiv for this topic, newest first.
 | 2026-11-11 | [Janus: One Agent, Two Roles for Digital Twin Construction and Network Orchestration](https://arxiv.org/abs/2611.14920) | Peijun Hou et al. |
 | 2026-11-08 | [Practical Deep Learning-Based Block Demapping for mmWave MIMO Systems](https://arxiv.org/abs/2611.11629) | Syed Asrar ul haq et al. |
 | 2026-11-08 | [Edge Computing for Computer Vision in IoT: Feasibility and Directions](https://arxiv.org/abs/2611.11218) | Panagiotis Savvidis et al. |
-| 2026-11-07 | [Where Should Models Run? A Collaborative Inference Framework for Embodied Intelligence in 6G](https://arxiv.org/abs/2611.11023) | Wanlu Sun et al. |
 <!-- ARXIV:END -->
 
 ## 🤖 Latest AI projects (LLMs, GenAI, agents)
@@ -39,12 +39,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- AI:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [stas00/ml-engineering](https://github.com/stas00/ml-engineering) | Machine Learning Engineering Open Book | Python | 19,721 | 2026-11-12 |
+| [stas00/ml-engineering](https://github.com/stas00/ml-engineering) | Machine Learning Engineering Open Book | Python | 19,723 | 2026-11-18 |
 | [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) | Low-code framework for building custom LLMs, neural networks, and other AI models | Python | 11,793 | 2026-11-16 |
-| [openagents-org/openagents](https://github.com/openagents-org/openagents) | OpenAgents - The collaboration OS for AI agents | TypeScript | 4,413 | 2026-11-17 |
-| [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) | The Swiss Army Knife of Offline AI. Chat, see, speak, and generate images on your phone or Mac — GGUF LLMs, vision, Whisper speech-to-text,  | TypeScript | 3,387 | 2026-11-17 |
-| [AI-Efficiency/Awesome-Model-Quantization](https://github.com/AI-Efficiency/Awesome-Model-Quantization) | A curated collection of papers, benchmarks, surveys, and tools for model quantization, covering low-bit networks, LLMs, multimodal and gener |  | 2,470 | 2026-11-16 |
-| [RikiyaT/lm_understand-logs](https://github.com/RikiyaT/lm_understand-logs) | Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights' | Python | 1,265 | 2026-10-29 |
+| [openagents-org/openagents](https://github.com/openagents-org/openagents) | OpenAgents - The collaboration OS for AI agents | TypeScript | 4,417 | 2026-11-18 |
+| [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) | The Swiss Army Knife of Offline AI. Chat, see, speak, and generate images on your phone or Mac — GGUF LLMs, vision, Whisper speech-to-text,  | TypeScript | 3,391 | 2026-11-17 |
+| [AI-Efficiency/Awesome-Model-Quantization](https://github.com/AI-Efficiency/Awesome-Model-Quantization) | A curated collection of papers, benchmarks, surveys, and tools for model quantization, covering low-bit networks, LLMs, multimodal and gener |  | 2,471 | 2026-11-16 |
+| [RikiyaT/lm_understand-logs](https://github.com/RikiyaT/lm_understand-logs) | Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights' | Python | 1,272 | 2026-10-29 |
 <!-- AI:END -->
 
 ## 🧠 Latest machine learning projects
@@ -82,11 +82,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [activecm/rita-legacy](https://github.com/activecm/rita-legacy) | Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis. | Go | 2,507 | 2026-01-12 |
-| [carverauto/serviceradar](https://github.com/carverauto/serviceradar) | Open-Source Network Management, Monitoring, ITOM, Observability, and Security Analytics | Elixir | 934 | 2026-11-17 |
-| [activecm/rita](https://github.com/activecm/rita) | Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis. | Go | 673 | 2026-11-17 |
-| [openflocon/Flocon](https://github.com/openflocon/Flocon) | A powerful desktop companion for Android & kmp (desktop, iOS) apps — inspect, debug, mock and control your app in real time. Supports OkHttp | Kotlin | 382 | 2026-11-16 |
+| [carverauto/serviceradar](https://github.com/carverauto/serviceradar) | Open-Source Network Management, Monitoring, ITOM, Observability, and Security Analytics | Elixir | 934 | 2026-11-18 |
+| [activecm/rita](https://github.com/activecm/rita) | Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis. | Go | 676 | 2026-11-17 |
+| [openflocon/Flocon](https://github.com/openflocon/Flocon) | A powerful desktop companion for Android & kmp (desktop, iOS) apps — inspect, debug, mock and control your app in real time. Supports OkHttp | Kotlin | 384 | 2026-11-17 |
 | [ayrshare/social-media-api](https://github.com/ayrshare/social-media-api) | Social Media API: Automate Posting and Analytics to Social Networks like Instagram, TikTok, X/Twitter, Facebook, LinkedIn, Reddit, YouTube,  | JavaScript | 352 | 2026-09-14 |
-| [neuhausi/canvasXpress](https://github.com/neuhausi/canvasXpress) | CanvasXpress: A JavaScript Library for Data Analytics with Full Audit Trail Capabilities. | R | 318 | 2026-11-13 |
+| [neuhausi/canvasXpress](https://github.com/neuhausi/canvasXpress) | CanvasXpress: A JavaScript Library for Data Analytics with Full Audit Trail Capabilities. | R | 319 | 2026-11-18 |
 <!-- DA:END -->
 
 ## 📈 Latest data analysis projects
