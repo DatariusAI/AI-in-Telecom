@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **network optimisation, c
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-19 04:27 UTC_
+_Last refreshed: 2026-11-20 04:28 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -23,14 +23,14 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
+| 2026-11-19 | [Physics-Informed Deep Learning for Channel Prediction in Satellite-Mounted Metasurface Reflection Communication Networks](https://arxiv.org/abs/2611.26068) | Aolin Sun et al. |
+| 2026-11-19 | [Intent-Defined Radio: A Goal-Native Architecture for Next-Generation Wireless Networks](https://arxiv.org/abs/2611.25657) | Wencheng Yan et al. |
 | 2026-11-18 | [OMNIS+: Semantic RAN Slicing and Quantization for Dynamic Split Neural Networks](https://arxiv.org/abs/2611.23977) | Langtian Qin et al. |
 | 2026-11-17 | [Foundation Model-Driven Agentic AI for 6G](https://arxiv.org/abs/2611.23494) | Mohammad Ghassemi et al. |
 | 2026-11-17 | [HiGAI-Net: Hierarchical Encrypted Traffic Classification for Generative AI Services](https://arxiv.org/abs/2611.22373) | Madhan Raj Kanagarathinam et al. |
 | 2026-11-15 | [Large Language Model-based Optimization for Wireless Communication: A Survey](https://arxiv.org/abs/2611.19876) | Muhammad Sohaib et al. |
 | 2026-11-14 | [EdgeNet City: Context-Aware AI-RAN Planning toward Autonomous Urban Connectivity](https://arxiv.org/abs/2611.19231) | Ziming Liu et al. |
 | 2026-11-12 | [Resilient Transmission of Highly Structured Light via Active Convolved Illumination](https://arxiv.org/abs/2611.17471) | Anindya Ghoshroy et al. |
-| 2026-11-11 | [Hybrid Precoding and Combining for O-RAN Massive MIMO Systems](https://arxiv.org/abs/2611.15199) | Seraphin F. Kimaryo et al. |
-| 2026-11-11 | [Janus: One Agent, Two Roles for Digital Twin Construction and Network Orchestration](https://arxiv.org/abs/2611.14920) | Peijun Hou et al. |
 <!-- ARXIV:END -->
 
 ## 🤖 Latest AI projects (LLMs, GenAI, agents)
@@ -39,12 +39,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- AI:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [stas00/ml-engineering](https://github.com/stas00/ml-engineering) | Machine Learning Engineering Open Book | Python | 19,732 | 2026-11-18 |
-| [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) | Low-code framework for building custom LLMs, neural networks, and other AI models | Python | 11,793 | 2026-11-16 |
-| [openagents-org/openagents](https://github.com/openagents-org/openagents) | OpenAgents - The collaboration OS for AI agents | TypeScript | 4,425 | 2026-11-19 |
-| [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) | The Swiss Army Knife of Offline AI. Chat, see, speak, and generate images on your phone or Mac — GGUF LLMs, vision, Whisper speech-to-text,  | TypeScript | 3,396 | 2026-11-19 |
+| [stas00/ml-engineering](https://github.com/stas00/ml-engineering) | Machine Learning Engineering Open Book | Python | 19,734 | 2026-11-20 |
+| [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) | Low-code framework for building custom LLMs, neural networks, and other AI models | Python | 11,792 | 2026-11-16 |
+| [openagents-org/openagents](https://github.com/openagents-org/openagents) | OpenAgents - The collaboration OS for AI agents | TypeScript | 4,433 | 2026-11-20 |
+| [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) | The Swiss Army Knife of Offline AI. Chat, see, speak, and generate images on your phone or Mac — GGUF LLMs, vision, Whisper speech-to-text,  | TypeScript | 3,398 | 2026-11-20 |
 | [AI-Efficiency/Awesome-Model-Quantization](https://github.com/AI-Efficiency/Awesome-Model-Quantization) | A curated collection of papers, benchmarks, surveys, and tools for model quantization, covering low-bit networks, LLMs, multimodal and gener |  | 2,471 | 2026-11-16 |
-| [RikiyaT/lm_understand-logs](https://github.com/RikiyaT/lm_understand-logs) | Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights' | Python | 1,277 | 2026-10-29 |
+| [RikiyaT/lm_understand-logs](https://github.com/RikiyaT/lm_understand-logs) | Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights' | Python | 1,281 | 2026-10-29 |
 <!-- AI:END -->
 
 ## 🧠 Latest machine learning projects
@@ -70,7 +70,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 | [f-masato-tanaka/telecom-churn-ml](https://github.com/f-masato-tanaka/telecom-churn-ml) | This repository features a data science project developed for a Master's course, aimed at identifying customer churn risk factors in the tel | Jupyter Notebook | 2 | 2026-01-24 |
 | [BERTHELEILA/Challenge-2-TelecomX-Data-Science](https://github.com/BERTHELEILA/Challenge-2-TelecomX-Data-Science) |  | Jupyter Notebook | 1 | 2026-03-10 |
 | [tania-maria/telecom-churn-analysis_](https://github.com/tania-maria/telecom-churn-analysis_) | Challenge 2 Data Science | Jupyter Notebook | 1 | 2026-03-09 |
-| [krishankantpandey359-droid/Telecom-Data-Science-Project](https://github.com/krishankantpandey359-droid/Telecom-Data-Science-Project) | Telecom Customer Data Analysis using Python, Pandas, NumPy, Matplotlib and Seaborn. | Jupyter Notebook | 1 | 2026-11-18 |
+| [krishankantpandey359-droid/Telecom-Data-Science-Project](https://github.com/krishankantpandey359-droid/Telecom-Data-Science-Project) | Telecom Customer Data Analysis using Python, Pandas, NumPy, Matplotlib and Seaborn. | Jupyter Notebook | 1 | 2026-11-19 |
 | [WARzGOD/Churn_TelecomX](https://github.com/WARzGOD/Churn_TelecomX) | Segundo projeto feito por mim como parte do desafio da Alura + Oracle do curso de Data Science | Jupyter Notebook | 1 | 2026-02-25 |
 | [DanielCrema/oracle-one-data-science-challenge2-telecom-x](https://github.com/DanielCrema/oracle-one-data-science-challenge2-telecom-x) | Challenge 2 of the ONE (Oracle Next Education) data science specialization. | Python | 1 | 2026-03-21 |
 <!-- DS:END -->
@@ -81,12 +81,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DA:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [activecm/rita-legacy](https://github.com/activecm/rita-legacy) | Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis. | Go | 2,507 | 2026-01-12 |
-| [carverauto/serviceradar](https://github.com/carverauto/serviceradar) | Open-Source Network Management, Monitoring, ITOM, Observability, and Security Analytics | Elixir | 937 | 2026-11-19 |
+| [activecm/rita-legacy](https://github.com/activecm/rita-legacy) | Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis. | Go | 2,506 | 2026-01-12 |
+| [carverauto/serviceradar](https://github.com/carverauto/serviceradar) | Open-Source Network Management, Monitoring, ITOM, Observability, and Security Analytics | Elixir | 937 | 2026-11-20 |
 | [activecm/rita](https://github.com/activecm/rita) | Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis. | Go | 677 | 2026-11-17 |
-| [openflocon/Flocon](https://github.com/openflocon/Flocon) | A powerful desktop companion for Android & kmp (desktop, iOS) apps — inspect, debug, mock and control your app in real time. Supports OkHttp | Kotlin | 385 | 2026-11-18 |
-| [ayrshare/social-media-api](https://github.com/ayrshare/social-media-api) | Social Media API: Automate Posting and Analytics to Social Networks like Instagram, TikTok, X/Twitter, Facebook, LinkedIn, Reddit, YouTube,  | JavaScript | 354 | 2026-09-14 |
-| [neuhausi/canvasXpress](https://github.com/neuhausi/canvasXpress) | CanvasXpress: A JavaScript Library for Data Analytics with Full Audit Trail Capabilities. | R | 319 | 2026-11-18 |
+| [openflocon/Flocon](https://github.com/openflocon/Flocon) | A powerful desktop companion for Android & kmp (desktop, iOS) apps — inspect, debug, mock and control your app in real time. Supports OkHttp | Kotlin | 385 | 2026-11-19 |
+| [ayrshare/social-media-api](https://github.com/ayrshare/social-media-api) | Social Media API: Automate Posting and Analytics to Social Networks like Instagram, TikTok, X/Twitter, Facebook, LinkedIn, Reddit, YouTube,  | JavaScript | 353 | 2026-09-14 |
+| [neuhausi/canvasXpress](https://github.com/neuhausi/canvasXpress) | CanvasXpress: A JavaScript Library for Data Analytics with Full Audit Trail Capabilities. | R | 318 | 2026-11-19 |
 <!-- DA:END -->
 
 ## 📈 Latest data analysis projects
