@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **network optimisation, c
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-25 04:28 UTC_
+_Last refreshed: 2026-11-26 04:28 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -23,14 +23,14 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
+| 2026-11-25 | [A Survey of Security, Privacy, and Ethics of Large Language Models in Telecom](https://arxiv.org/abs/2611.34868) | Joy Bose et al. |
+| 2026-11-25 | [From Telemetry to Intelligence: A Data-Centric Survey of O-RAN](https://arxiv.org/abs/2611.34262) | Samara Mayhoub et al. |
 | 2026-11-24 | [Wireless-OptSG: A Versatile Multi-Agent Optimization Framework for Wireless Resource Allocation](https://arxiv.org/abs/2611.32105) | Wenhe Zhang et al. |
 | 2026-11-23 | [Deep-Learning-Based Classiffcation of Relay-Surface Scattering Regimes for NLOS Millimeter-Wave Sensing](https://arxiv.org/abs/2611.30279) | Haoran Yuan et al. |
 | 2026-11-19 | [Physics-Informed Deep Learning for Channel Prediction in Satellite-Mounted Metasurface Reflection Communication Networks](https://arxiv.org/abs/2611.26068) | Aolin Sun et al. |
 | 2026-11-19 | [Intent-Defined Radio: A Goal-Native Architecture for Next-Generation Wireless Networks](https://arxiv.org/abs/2611.25657) | Wencheng Yan et al. |
 | 2026-11-18 | [OMNIS+: Semantic RAN Slicing and Quantization for Dynamic Split Neural Networks](https://arxiv.org/abs/2611.23977) | Langtian Qin et al. |
 | 2026-11-17 | [Foundation Model-Driven Agentic AI for 6G](https://arxiv.org/abs/2611.23494) | Mohammad Ghassemi et al. |
-| 2026-11-17 | [HiGAI-Net: Hierarchical Encrypted Traffic Classification for Generative AI Services](https://arxiv.org/abs/2611.22373) | Madhan Raj Kanagarathinam et al. |
-| 2026-11-15 | [Large Language Model-based Optimization for Wireless Communication: A Survey](https://arxiv.org/abs/2611.19876) | Muhammad Sohaib et al. |
 <!-- ARXIV:END -->
 
 ## 🤖 Latest AI projects (LLMs, GenAI, agents)
@@ -39,12 +39,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- AI:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [stas00/ml-engineering](https://github.com/stas00/ml-engineering) | Machine Learning Engineering Open Book | Python | 19,745 | 2026-11-25 |
-| [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) | Low-code framework for building custom LLMs, neural networks, and other AI models | Python | 11,791 | 2026-11-23 |
-| [openagents-org/openagents](https://github.com/openagents-org/openagents) | OpenAgents - The collaboration OS for AI agents | TypeScript | 4,451 | 2026-11-24 |
-| [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) | The Swiss Army Knife of Offline AI. Chat, see, speak, and generate images on your phone or Mac — GGUF LLMs, vision, Whisper speech-to-text,  | TypeScript | 3,580 | 2026-11-25 |
-| [AI-Efficiency/Awesome-Model-Quantization](https://github.com/AI-Efficiency/Awesome-Model-Quantization) | A curated collection of papers, benchmarks, surveys, and tools for model quantization, covering low-bit networks, LLMs, multimodal and gener |  | 2,473 | 2026-11-16 |
-| [RikiyaT/lm_understand-logs](https://github.com/RikiyaT/lm_understand-logs) | Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights' | Python | 1,295 | 2026-10-29 |
+| [stas00/ml-engineering](https://github.com/stas00/ml-engineering) | Machine Learning Engineering Open Book | Python | 19,751 | 2026-11-25 |
+| [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) | Low-code framework for building custom LLMs, neural networks, and other AI models | Python | 11,792 | 2026-11-23 |
+| [openagents-org/openagents](https://github.com/openagents-org/openagents) | OpenAgents - The collaboration OS for AI agents | TypeScript | 4,456 | 2026-11-26 |
+| [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) | The Swiss Army Knife of Offline AI. Chat, see, speak, and generate images on your phone or Mac — GGUF LLMs, vision, Whisper speech-to-text,  | TypeScript | 3,604 | 2026-11-26 |
+| [AI-Efficiency/Awesome-Model-Quantization](https://github.com/AI-Efficiency/Awesome-Model-Quantization) | A curated collection of papers, benchmarks, surveys, and tools for model quantization, covering low-bit networks, LLMs, multimodal and gener |  | 2,474 | 2026-11-16 |
+| [RikiyaT/lm_understand-logs](https://github.com/RikiyaT/lm_understand-logs) | Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights' | Python | 1,297 | 2026-10-29 |
 <!-- AI:END -->
 
 ## 🧠 Latest machine learning projects
@@ -82,11 +82,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [activecm/rita-legacy](https://github.com/activecm/rita-legacy) | Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis. | Go | 2,506 | 2026-01-12 |
-| [carverauto/serviceradar](https://github.com/carverauto/serviceradar) | Open-Source Network Management, Monitoring, ITOM, Observability, and Security Analytics | Elixir | 939 | 2026-11-25 |
-| [activecm/rita](https://github.com/activecm/rita) | Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis. | Go | 680 | 2026-11-17 |
-| [openflocon/Flocon](https://github.com/openflocon/Flocon) | A powerful desktop companion for Android & kmp (desktop, iOS) apps — inspect, debug, mock and control your app in real time. Supports OkHttp | Kotlin | 390 | 2026-11-24 |
+| [carverauto/serviceradar](https://github.com/carverauto/serviceradar) | Open-Source Network Management, Monitoring, ITOM, Observability, and Security Analytics | Elixir | 939 | 2026-11-26 |
+| [activecm/rita](https://github.com/activecm/rita) | Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis. | Go | 680 | 2026-11-25 |
+| [openflocon/Flocon](https://github.com/openflocon/Flocon) | A powerful desktop companion for Android & kmp (desktop, iOS) apps — inspect, debug, mock and control your app in real time. Supports OkHttp | Kotlin | 391 | 2026-11-25 |
 | [ayrshare/social-media-api](https://github.com/ayrshare/social-media-api) | Social Media API: Automate Posting and Analytics to Social Networks like Instagram, TikTok, X/Twitter, Facebook, LinkedIn, Reddit, YouTube,  | JavaScript | 355 | 2026-09-14 |
-| [neuhausi/canvasXpress](https://github.com/neuhausi/canvasXpress) | CanvasXpress: A JavaScript Library for Data Analytics with Full Audit Trail Capabilities. | R | 318 | 2026-11-24 |
+| [neuhausi/canvasXpress](https://github.com/neuhausi/canvasXpress) | CanvasXpress: A JavaScript Library for Data Analytics with Full Audit Trail Capabilities. | R | 318 | 2026-11-25 |
 <!-- DA:END -->
 
 ## 📈 Latest data analysis projects
